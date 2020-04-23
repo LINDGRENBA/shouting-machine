@@ -2,6 +2,17 @@ body {
   background-color: #70C1B3;
 }
 
+#sentence-returned {
+  padding-top: 30px;
+  font-size: 2em;
+}
+
+/* CLASS ADDED BY JAVASCRIPT ON SUBMIT */
+
+.shout-styling {
+  background-color: #F25F5C;
+  color: #FFF;
+}
 
 
 
